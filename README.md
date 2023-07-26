@@ -72,4 +72,5 @@
 - [구글](http://www.google.com, "검색 사이트")
 
 # 이미지
-- ![이미지텍스트](./이미지경로)
+- ![이미지텍스트](./이미지 경로)
+- ![pixabay](./images/pixabay.jpg)
